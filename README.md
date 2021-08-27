@@ -23,7 +23,7 @@ Clone the Github repo and make a virtual environment for the project. Run the re
 
 ./blog               --> Contains the codes for the blog app
 
-./projects    --> Contains the codes for the portfolio projects
+./projects           --> Contains the codes for the portfolio projects
 ```
 ## Sections
 [personal_portfolio](https://github.com/Anirbanbhk88/django_Portfolio/blob/master/personal_portfolio/README.md)
