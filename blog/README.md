@@ -1,1 +1,1 @@
-
+Codebase for the blogs app. The Model class used for interaction and storing data from database is declared in models.py. The urls.py has the url components declared in it. There are 3 pages in this app- an index/main page with a list of blogs . A detail page which fetches the details of a blog from DB using its id as primary key shows the detailed view of the blog. And a page for displaying blogs by category. Finally views.py has all the view functions which passes the data to the HTML views. the ./templates folder has the HTML templates for each page
