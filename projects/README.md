@@ -1,1 +1,1 @@
-hello
+Codebase for the projects app. The Model class used for interactiona and storing data from database is declared in models.py. The urls.py has the url components declared in it. There are 2 pages in this app- an index/main page with a list of projects in thumbnail view. And an detail page which fetches the details of a project from DB using its id as primary key shows the detailed view of a project. Finally views.py has all the view functions which passes the data to the HTML views. the ./templates folder ghas the html templates for each page
